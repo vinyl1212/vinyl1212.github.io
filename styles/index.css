@@ -1,0 +1,14 @@
+.top-title{
+    width: 100%;
+    text-align: center;
+}
+#form-request{
+    background: rgb(243, 243, 243);
+    padding: 10px 0;
+}
+.hidden{
+    display: none;
+}
+.table thead th, .table tbody td{
+    text-align: center;
+}
